@@ -1,0 +1,37 @@
+# AZ400-ANTONIO DE HARO
+
+
+
+## LAB 6B
+
+
+
+![P6B.1](P6B.1.PNG)
+
+![P6B.2](P6B.2.PNG)
+
+![P6B.3](P6B.3.PNG)
+
+![P6B.4](P6B.4.PNG)
+
+![P6B.5](P6B.5.PNG)
+
+![P6B.6](P6B.6.PNG)
+
+![P6B.7](P6B.7.PNG)
+
+![P6B.8](P6B.8.PNG)
+
+![P6B.9](P6B.9.PNG)
+
+![P6B.10](P6B.10.PNG)
+
+![P6B.11](P6B.11.PNG)
+
+![P6B.12](P6B.12.PNG)
+
+![P6B.13](P6B.13.PNG)
+
+![P6B.14](P6B.14.PNG)
+
+![P6B.15](P6B.15.PNG)

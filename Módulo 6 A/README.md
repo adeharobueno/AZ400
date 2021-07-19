@@ -1,0 +1,23 @@
+# AZ400-ANTONIO DE HARO
+
+
+
+## LAB 6A
+
+
+
+![P6A.1](P6A.1.PNG)
+
+![P6A.2](P6A.2.PNG)
+
+![P6A.3](P6A.3.PNG)
+
+![P6A.4](P6A.4.PNG)
+
+![P6A.5](P6A.5.PNG)
+
+![P6A.6](P6A.6.PNG)
+
+![P6A.7](P6A.7.PNG)
+
+![P6A.8](P6A.8.PNG)
