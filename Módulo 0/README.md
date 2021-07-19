@@ -1,0 +1,10 @@
+# AZ400-ANTONIO DE HARO
+
+
+
+## LAB 0
+
+
+
+![P0.1](P0.1.PNG)
+
