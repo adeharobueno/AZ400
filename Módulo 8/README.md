@@ -1,0 +1,23 @@
+# AZ400-ANTONIO DE HARO
+
+
+
+## LAB 8
+
+
+
+![P8.1](P8.1.JPG)
+
+![P8.2](P8.2.JPG)
+
+![P8.3](P8.3.JPG)
+
+![P8.4](P8.4.JPG)
+
+![P8.5JPG](P8.5JPG.JPG)
+
+![P8.6JPG](P8.6JPG.JPG)
+
+![P8.7JPG](P8.7JPG.JPG)
+
+![P8.8JPG](P8.8JPG.JPG)
