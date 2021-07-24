@@ -1,0 +1,27 @@
+# AZ400-ANTONIO DE HARO
+
+
+
+## LAB 11 A
+
+
+
+![P11A.1](P11A.1.JPG)
+
+![P11A.2](P11A.2.JPG)
+
+![P11A.2.1](P11A.2.1.JPG)
+
+
+
+![P11A.3](P11A.3.JPG)
+
+![P11A.4](P11A.4.JPG)
+
+![P11A.5](P11A.5.JPG)
+
+![P11A.5.2](P11A.5.2.JPG)
+
+![P11A.5.3](P11A.5.3.JPG)
+
+![P11A.6](P11A.6.JPG)
